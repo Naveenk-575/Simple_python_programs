@@ -3,7 +3,7 @@ n= int(input())
 c1=1
 while c1<n+1:
     c2=0
-    while c2<n:
+    while c2<n+1:
         print(c2,end=' ')
         c2+=1
     print()
